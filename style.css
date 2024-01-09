@@ -1,0 +1,23 @@
+h1, h4{
+    font-family: 'Solway', serif;
+}
+#imgedisplay{
+    width:400px;
+    height:400px;
+    margin-bottom:100px;
+}
+.footer{
+    background-color:bisque;
+    padding: 9px;
+    font-size: 15px;
+}
+.buttonpress{
+    letter-spacing: 2px;
+}
+body{
+    background-color: bisque;
+}
+#mainDiv{
+    width: 95%;
+    background-color: rgb(255, 255, 255);
+}
